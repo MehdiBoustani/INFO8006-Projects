@@ -40,7 +40,7 @@ Implements probabilistic reasoning to locate and capture ghosts:
 ├── Project2/
 │   ├── bayesfilter.py
 │   ├── run.py
-│   └──README.md
+│   └── README.md
 └── README.md
 ```
 
