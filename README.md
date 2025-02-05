@@ -60,12 +60,6 @@ Each project implements specific algorithms:
 | Adversarial | 17.5/20 | Minimax (45%), H-Minimax (50%), Code Style (5%) |
 | Bayes Filter | 15/20 | Transition Matrix (25%), Observation Matrix (25%), Update Function (25%), Pacman Controller (20%), Code Style (5%) |
 
-## Authors
-
-- [Mehdi Boustani](https://github.com/MehdiBoustani)
-- [Antoine Kinable](https://github.com/AntoineKin)
-- [Abdelkader Albashityalshaier](https://github.com/AbdelkaderULG)
-
 ## Requirements
 
 - Python 3.x
@@ -76,3 +70,9 @@ This project was developed as part of a university course. Please check with the
 
 ## Course Reference
 These projects were completed as part of the [Introduction to Artificial Intelligence (INFO8006)](https://github.com/glouppe/info8006-introduction-to-ai) course.
+
+## Authors
+
+- [Mehdi Boustani](https://github.com/MehdiBoustani)
+- [Antoine Kinable](https://github.com/AntoineKin)
+- [Abdelkader Albashityalshaier](https://github.com/AbdelkaderULG)
