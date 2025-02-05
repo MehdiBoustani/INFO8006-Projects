@@ -35,7 +35,7 @@ Implements probabilistic reasoning to locate and capture ghosts:
 │   ├── hminimax.py
 │   ├── humanagent.py
 |   ├── pacmanagent.py
-|   ├──run.py
+|   ├── run.py
 │   └── README.md
 ├── Project2/
 │   ├── bayesfilter.py
