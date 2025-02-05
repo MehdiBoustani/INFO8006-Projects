@@ -22,7 +22,7 @@ Implements probabilistic reasoning to locate and capture ghosts:
 ## Project Structure
 
 ```
-├── Project0/
+├── project0/
 │   ├── bfs.py
 │   ├── dfs.py
 │   ├── astar.py
@@ -30,14 +30,14 @@ Implements probabilistic reasoning to locate and capture ghosts:
 |   ├── pacmanagent.py
 |   ├── run.py
 │   └── README.md
-├── Project1/
+├── project1/
 │   ├── minimax.py
 │   ├── hminimax.py
 │   ├── humanagent.py
 |   ├── pacmanagent.py
 |   ├── run.py
 │   └── README.md
-├── Project2/
+├── project2/
 │   ├── bayesfilter.py
 │   ├── run.py
 │   └── README.md
