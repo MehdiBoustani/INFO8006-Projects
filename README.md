@@ -56,9 +56,9 @@ Each project implements specific algorithms:
 
 | Project | Grade | Main Components |
 |---------|--------|-----------------|
-| BFS & A* | 19/20 | BFS (20%), A* (75%), Style (5%) |
-| Adversarial | 17.5/20 | Minimax Performance, H-Minimax Efficiency, Code Quality |
-| Bayes Filter | 15/20 | Transition Matrix (25%), Observation Matrix (25%), Update Function (25%), Controller (20%), Style (5%) |
+| BFS & A* | 19/20 | BFS (20%), A* (75%), Code Style (5%) |
+| Adversarial | 17.5/20 | Minimax (45%), H-Minimax (50%), Code Style (5%) |
+| Bayes Filter | 15/20 | Transition Matrix (25%), Observation Matrix (25%), Update Function (25%), Pacman Controller (20%), Code Style (5%) |
 
 ## Authors
 
